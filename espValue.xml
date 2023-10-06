@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="6x" value="true" />
+    <boolean name="Backmark" value="true" />
+    <boolean name="MK47" value="true" />
+    <boolean name="2x" value="true" />
+    <boolean name="Stock Micro UZI" value="true" />
+    <boolean name="5.56mm" value="true" />
+    <boolean name="Light Grip" value="true" />
+    <boolean name="Name" value="true" />
+    <boolean name="VehicleHealth" value="true" />
+    <boolean name="AUG" value="true" />
+    <boolean name="Dacia" value="true" />
+    <boolean name="UTV" value="true" />
+    <boolean name="SLR" value="true" />
+    <boolean name="VehicleFuel" value="true" />
+    <boolean name="FlareGun" value="true" />
+    <boolean name="CheekPad" value="true" />
+    <boolean name="Distance" value="true" />
+    <boolean name="Buggy" value="true" />
+    <boolean name="CoupeRB" value="true" />
+    <boolean name="Bike" value="true" />
+    <boolean name="Helmet L3" value="true" />
+    <boolean name="Helmet L2" value="true" />
+    <boolean name="isFPS" value="true" />
+    <boolean name="3x" value="true" />
+    <boolean name="Ar Compensator" value="true" />
+    <boolean name="Angled Grip" value="true" />
+    <int name="count" value="3" />
+    <boolean name="Head Position" value="true" />
+    <boolean name="Vest L3" value="true" />
+    <boolean name="Vest L2" value="true" />
+    <boolean name="Ex.Qd.Ar" value="true" />
+    <boolean name="Text Only" value="false" />
+    <int name="skelton" value="2" />
+    <boolean name="AirDrop" value="true" />
+    <boolean name="Motorglider" value="true" />
+    <boolean name="Tactical Stock" value="true" />
+    <boolean name="Ex.Sniper" value="true" />
+    <boolean name="Bag L2" value="true" />
+    <boolean name="Bag L3" value="true" />
+    <boolean name="Mini14" value="true" />
+    <boolean name="Half Grip" value="true" />
+    <boolean name="Icon" value="true" />
+    <boolean name="8x" value="true" />
+    <boolean name="4x" value="true" />
+    <int name="line" value="1" />
+    <boolean name="Crate" value="true" />
+    <int name="box" value="1" />
+    <int name="vehicle_distance" value="100" />
+    <boolean name="M24" value="true" />
+    <boolean name="M416" value="true" />
+    <boolean name="7.62mm" value="true" />
+    <boolean name="Ex.Ar" value="true" />
+    <boolean name="UAZ" value="true" />
+    <boolean name="Red Dot" value="true" />
+    <boolean name="AWM" value="true" />
+    <boolean name="Monster Truck" value="true" />
+    <boolean name="Suppressor Ar" value="true" />
+    <boolean name="Enemy Weapon" value="true" />
+    <boolean name="AKM" value="true" />
+    <boolean name="Health" value="true" />
+    <boolean name="M762" value="false" />
+    <boolean name="MK14" value="true" />
+    <boolean name="M249" value="true" />
+    <boolean name="Grenade Warning" value="true" />
+    <boolean name="Thumb Grip" value="true" />
+    <boolean name="Ex.Qd.Sniper" value="true" />
+    <boolean name="SCAR-L" value="true" />
+    <boolean name="DropPlane" value="true" />
+    <boolean name="Team ID" value="true" />
+    <boolean name="Groza" value="true" />
+    <boolean name="Kar98k" value="true" />
+    <boolean name="Flash Hider Ar" value="true" />
+    <boolean name="Vertical Grip" value="true" />
+    <boolean name="SKS" value="true" />
+    <boolean name="isVisibility" value="true" />
+</map>
